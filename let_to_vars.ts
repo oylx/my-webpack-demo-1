@@ -15,4 +15,4 @@ traverse(ast, {
   },
 });
 const result = generate(ast, {}, code);
-console.log(result);
+console.log(result.code);
