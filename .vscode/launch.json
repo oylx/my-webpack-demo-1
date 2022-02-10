@@ -27,7 +27,7 @@
       "type": "node",
       "request": "launch",
       "args": [
-        "${workspaceRoot}/deps_1.ts" // 入口文件
+        "${workspaceRoot}/deps_2.ts" // 入口文件
       ],
       "runtimeArgs": [
         "--nolazy",
